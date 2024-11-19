@@ -31,8 +31,8 @@ A simple contact management system built with React, Node.js, Express, and Mongo
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/contact-management-system.git
-    cd contact-management-system
+    git clone https://github.comshobhit45/Contact-Management.git
+    cd Contact-Management
     ```
 
 2. Install dependencies for both the frontend and backend:
