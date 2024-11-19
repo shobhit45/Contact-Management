@@ -31,7 +31,7 @@ A simple contact management system built with React, Node.js, Express, and Mongo
 1. Clone the repository:
 
     ```sh
-    git clone https://github.comshobhit45/Contact-Management.git
+    git clone https://github.com/shobhit45/Contact-Management.git
     cd Contact-Management
     ```
 
